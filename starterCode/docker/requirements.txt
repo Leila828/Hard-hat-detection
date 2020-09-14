@@ -1,3 +1,9 @@
 numpy
 jupyter
 scikit-image
+matplotlib
+pandas
+PIL
+keras
+yolo
+yad2k
